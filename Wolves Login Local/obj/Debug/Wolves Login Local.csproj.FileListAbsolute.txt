@@ -1,0 +1,28 @@
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\bin\Debug\Wolves Login Local.exe.config
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\bin\Debug\Wolves Login Local.exe
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\bin\Debug\Wolves Login Local.pdb
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\bin\Debug\Guna.UI2.dll
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csprojAssemblyReference.cache
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Properties.Resources.resources
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csproj.GenerateResource.cache
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csproj.CoreCompileInputs.cache
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csproj.CopyComplete
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.exe
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.pdb
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Login.resources
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Register.resources
+C:\Users\RemyGeek\source\repos\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Portal.resources
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\bin\Debug\Wolves Login Local.exe.config
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\bin\Debug\Wolves Login Local.exe
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\bin\Debug\Wolves Login Local.pdb
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csprojAssemblyReference.cache
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Login.resources
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Portal.resources
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Properties.Resources.resources
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.Register.resources
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csproj.GenerateResource.cache
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csproj.CoreCompileInputs.cache
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.csproj.CopyComplete
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.exe
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves Login Local.pdb
+C:\Users\RemyGeek\Desktop\C# login form by LoneWolf\Free\Wolves Login Local\Wolves Login Local\obj\Debug\Wolves_Login_Local.PremiumAd.resources
